@@ -1,0 +1,1 @@
+cmd_/home/parallels/Desktop/CSC415/SecondDiviceDrivers/Module/modules.order := {   echo /home/parallels/Desktop/CSC415/SecondDiviceDrivers/Module/my_device.ko; :; } | awk '!x[$$0]++' - > /home/parallels/Desktop/CSC415/SecondDiviceDrivers/Module/modules.order

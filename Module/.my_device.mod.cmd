@@ -1,0 +1,1 @@
+cmd_/home/parallels/Desktop/CSC415/SecondDiviceDrivers/Module/my_device.mod := { echo  /home/parallels/Desktop/CSC415/SecondDiviceDrivers/Module/my_device.o;  echo; } > /home/parallels/Desktop/CSC415/SecondDiviceDrivers/Module/my_device.mod

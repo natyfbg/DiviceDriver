@@ -1,0 +1,1 @@
+cmd_/home/parallels/Desktop/CSC415/SecondDiviceDrivers/Module/Module.symvers := sed 's/\.ko$$/\.o/' /home/parallels/Desktop/CSC415/SecondDiviceDrivers/Module/modules.order | scripts/mod/modpost -m -a  -o /home/parallels/Desktop/CSC415/SecondDiviceDrivers/Module/Module.symvers -e -i Module.symvers   -T -
